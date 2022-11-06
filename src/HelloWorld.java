@@ -4,6 +4,8 @@ public class HelloWorld {
         System.out.println("Harry Potter");
 
         System.out.println("Hermione Granger");
+
+        System.out.println("Ron");
     }
 
     // Doing some work here (you can type anything you want)
